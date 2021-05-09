@@ -1,1 +1,37 @@
-[{"id": "123245", "title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"}]
+[
+	{
+		"title": "Super Mario Bros.",
+		"imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+		"description": "An NES classic that has stood the test of time! Everybody knows Mario.",
+		"price": "59",
+		"id": "001"
+	},
+	{
+		"title": "The Legend of Zelda",
+		"imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+		"description": "Start it all with the original Zelda game! Control Link as he saves Hyrule from the clutches of the evil Ganon.",
+		"price": "59",
+		"id": "002"
+	},
+	{
+		"title": "The Legend of Zelda: A Link to the Past",
+		"imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+		"description": "A legendary SNES entry into the storied Zelda franchise. Take Link through time to save princesses and slay Ganon (again)!",
+		"price": "59",
+		"id": "003"
+	},
+	{
+		"title": "Fire Emblem: Geneology of the Holy War",
+		"imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+		"description": "Never released in English, this modified cartrige lets you explore and fight for Jugdral for the first time!",
+		"price": "59",
+		"id": "004"
+	},
+	{
+		"title": "Final Fantasy VI",
+		"imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+		"description": "The last Final Fantasy game released on the SNES, Final Fantasy VI takes you on an adventure with Terra, Locke, Edgar, and many more!",
+		"price": "59",
+		"id": "005"
+	}
+]
